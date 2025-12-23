@@ -1,0 +1,79 @@
+{
+  "timestamp": "2025-12-23T19:31:31.505511",
+  "phase": "Phase 2B - Content Structuring",
+  "summary": {
+    "total_documents": 6,
+    "total_segments": 36,
+    "total_estimated_duration_minutes": 123.51666666666667,
+    "average_segments_per_document": 6.0,
+    "average_duration_per_document": 20.586111111111112
+  },
+  "documents": [
+    {
+      "source": "The Project Gutenberg eBook of Rise of Rail Power In War & Conquest 1833-1914, by Edwin A. Pratt_.pdf",
+      "subject": "history",
+      "total_segments": 6,
+      "estimated_duration_minutes": 35.0,
+      "segment_breakdown": {
+        "introduction": 1,
+        "main_content": 4,
+        "conclusion": 1
+      }
+    },
+    {
+      "source": "The Variation of Animals and Plants Under Domestication. Vol I_.pdf",
+      "subject": "science",
+      "total_segments": 6,
+      "estimated_duration_minutes": 15.416666666666666,
+      "segment_breakdown": {
+        "introduction": 1,
+        "main_content": 4,
+        "conclusion": 1
+      }
+    },
+    {
+      "source": "The Project Gutenberg eBook of The Communist Manifesto by Karl Marx and Friedrich Engels.pdf",
+      "subject": "history",
+      "total_segments": 6,
+      "estimated_duration_minutes": 21.066666666666666,
+      "segment_breakdown": {
+        "introduction": 1,
+        "main_content": 4,
+        "conclusion": 1
+      }
+    },
+    {
+      "source": "The Project Gutenberg eBook of Food and Flavor, by Henry T. Finck_.pdf",
+      "subject": "science",
+      "total_segments": 6,
+      "estimated_duration_minutes": 20.833333333333332,
+      "segment_breakdown": {
+        "introduction": 1,
+        "main_content": 4,
+        "conclusion": 1
+      }
+    },
+    {
+      "source": "The Project Gutenberg eBook of The Wars of Religion in France (1559-1576), by James Westfall Thompson_.pdf",
+      "subject": "literature",
+      "total_segments": 6,
+      "estimated_duration_minutes": 14.966666666666667,
+      "segment_breakdown": {
+        "introduction": 1,
+        "main_content": 4,
+        "conclusion": 1
+      }
+    },
+    {
+      "source": "The Project Gutenberg eBook of On the Origin of Species, Sixth Edition by Charles Darwin.pdf",
+      "subject": "science",
+      "total_segments": 6,
+      "estimated_duration_minutes": 16.233333333333334,
+      "segment_breakdown": {
+        "introduction": 1,
+        "main_content": 4,
+        "conclusion": 1
+      }
+    }
+  ]
+}
