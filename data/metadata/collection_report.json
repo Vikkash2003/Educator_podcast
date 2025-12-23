@@ -1,0 +1,155 @@
+{
+  "timestamp": "2025-12-23T18:10:48.655413",
+  "collection_date": "2025-12-23",
+  "summary": {
+    "total_pdfs": 6,
+    "valid_pdfs": 6,
+    "invalid_pdfs": 0,
+    "total_pages": 154,
+    "total_size_mb": 3.9,
+    "average_pages_per_pdf": 25.666666666666668,
+    "average_size_mb": 0.65
+  },
+  "by_subject": {
+    "history": {
+      "count": 2,
+      "total_pages": 64,
+      "total_size_mb": 1.0499999999999998,
+      "valid_count": 2
+    },
+    "science": {
+      "count": 3,
+      "total_pages": 70,
+      "total_size_mb": 2.0300000000000002,
+      "valid_count": 3
+    },
+    "literature": {
+      "count": 1,
+      "total_pages": 20,
+      "total_size_mb": 0.82,
+      "valid_count": 1
+    }
+  },
+  "pdfs": [
+    {
+      "is_valid": true,
+      "total_pages": 24,
+      "text_extractable": true,
+      "sample_text_length": 1273,
+      "file_size_mb": 0.35509300231933594,
+      "errors": [],
+      "filename": "The Project Gutenberg eBook of The Communist Manifesto by Karl Marx and Friedrich Engels.pdf",
+      "path": "/content/ai_podcast_generator/data/raw_pdfs/history/The Project Gutenberg eBook of The Communist Manifesto by Karl Marx and Friedrich Engels.pdf",
+      "subject": "history",
+      "metadata": {
+        "title": "The Project Gutenberg eBook of The Communist Manifesto by Karl Marx and Friedrich Engels",
+        "author": "",
+        "subject": "",
+        "creator": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36",
+        "producer": "Skia/PDF m143",
+        "creation_date": "D:20251223053024+00'00'"
+      }
+    },
+    {
+      "is_valid": true,
+      "total_pages": 40,
+      "text_extractable": true,
+      "sample_text_length": 1190,
+      "file_size_mb": 0.6898269653320312,
+      "errors": [],
+      "filename": "The Project Gutenberg eBook of Rise of Rail Power In War & Conquest 1833-1914, by Edwin A. Pratt_.pdf",
+      "path": "/content/ai_podcast_generator/data/raw_pdfs/history/The Project Gutenberg eBook of Rise of Rail Power In War & Conquest 1833-1914, by Edwin A. Pratt_.pdf",
+      "subject": "history",
+      "metadata": {
+        "title": "The Project Gutenberg eBook of Rise of Rail Power In War & Conquest 1833-1914, by Edwin A. Pratt.",
+        "author": "",
+        "subject": "",
+        "creator": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36",
+        "producer": "Skia/PDF m143",
+        "creation_date": "D:20251223053408+00'00'"
+      }
+    },
+    {
+      "is_valid": true,
+      "total_pages": 15,
+      "text_extractable": true,
+      "sample_text_length": 1506,
+      "file_size_mb": 0.44826412200927734,
+      "errors": [],
+      "filename": "The Variation of Animals and Plants Under Domestication. Vol I_.pdf",
+      "path": "/content/ai_podcast_generator/data/raw_pdfs/science/The Variation of Animals and Plants Under Domestication. Vol I_.pdf",
+      "subject": "science",
+      "metadata": {
+        "title": "The Variation of Animals and Plants Under Domestication. Vol I.",
+        "author": "",
+        "subject": "",
+        "creator": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36",
+        "producer": "Skia/PDF m143",
+        "creation_date": "D:20251223050254+00'00'"
+      }
+    },
+    {
+      "is_valid": true,
+      "total_pages": 20,
+      "text_extractable": true,
+      "sample_text_length": 1533,
+      "file_size_mb": 0.3626852035522461,
+      "errors": [],
+      "filename": "The Project Gutenberg eBook of On the Origin of Species, Sixth Edition by Charles Darwin.pdf",
+      "path": "/content/ai_podcast_generator/data/raw_pdfs/science/The Project Gutenberg eBook of On the Origin of Species, Sixth Edition by Charles Darwin.pdf",
+      "subject": "science",
+      "metadata": {
+        "title": "The Project Gutenberg eBook of On the Origin of Species, Sixth Edition by Charles Darwin",
+        "author": "",
+        "subject": "",
+        "creator": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36",
+        "producer": "Skia/PDF m143",
+        "creation_date": "D:20251223045659+00'00'"
+      }
+    },
+    {
+      "is_valid": true,
+      "total_pages": 35,
+      "text_extractable": true,
+      "sample_text_length": 1252,
+      "file_size_mb": 1.2216606140136719,
+      "errors": [],
+      "filename": "The Project Gutenberg eBook of Food and Flavor, by Henry T. Finck_.pdf",
+      "path": "/content/ai_podcast_generator/data/raw_pdfs/science/The Project Gutenberg eBook of Food and Flavor, by Henry T. Finck_.pdf",
+      "subject": "science",
+      "metadata": {
+        "title": "The Project Gutenberg eBook of Food and Flavor, by Henry T. Finck.",
+        "author": "",
+        "subject": "",
+        "creator": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36",
+        "producer": "Skia/PDF m143",
+        "creation_date": "D:20251223044746+00'00'"
+      }
+    },
+    {
+      "is_valid": true,
+      "total_pages": 20,
+      "text_extractable": true,
+      "sample_text_length": 1204,
+      "file_size_mb": 0.8190040588378906,
+      "errors": [],
+      "filename": "The Project Gutenberg eBook of The Wars of Religion in France (1559-1576), by James Westfall Thompson_.pdf",
+      "path": "/content/ai_podcast_generator/data/raw_pdfs/literature/The Project Gutenberg eBook of The Wars of Religion in France (1559-1576), by James Westfall Thompson_.pdf",
+      "subject": "literature",
+      "metadata": {
+        "title": "The Project Gutenberg eBook of The Wars of Religion in France (1559-1576), by James Westfall Thompson.",
+        "author": "",
+        "subject": "",
+        "creator": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36",
+        "producer": "Skia/PDF m143",
+        "creation_date": "D:20251223045901+00'00'"
+      }
+    }
+  ],
+  "quality_metrics": {
+    "validation_success_rate": 1.0,
+    "text_extraction_success_rate": 1.0,
+    "meets_target": false
+  },
+  "status": "COMPLETE"
+}

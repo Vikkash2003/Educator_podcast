@@ -1,0 +1,31 @@
+{
+  "timestamp": "2025-12-23T18:10:41.925895",
+  "environment": {
+    "python_version": "3.12.12 (main, Oct 10 2025, 08:52:57) [GCC 11.4.0]",
+    "gpu_available": true,
+    "gpu_name": "Tesla T4",
+    "base_directory": "/content"
+  },
+  "libraries": {
+    "pdfplumber": "0.11.8",
+    "PyPDF2": "3.0.1",
+    "nltk": "3.9.1",
+    "spacy": "3.8.11",
+    "numpy": "2.0.2",
+    "pandas": "2.2.2",
+    "torch": "2.9.0+cu126"
+  },
+  "folders_created": [
+    "ai_podcast_generator",
+    "ai_podcast_generator/data",
+    "ai_podcast_generator/data/raw_pdfs",
+    "ai_podcast_generator/data/raw_pdfs/history",
+    "ai_podcast_generator/data/raw_pdfs/science",
+    "ai_podcast_generator/data/raw_pdfs/literature",
+    "ai_podcast_generator/data/extracted_text",
+    "ai_podcast_generator/data/metadata",
+    "ai_podcast_generator/outputs",
+    "ai_podcast_generator/logs"
+  ],
+  "status": "SUCCESS"
+}

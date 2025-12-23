@@ -1,0 +1,51 @@
+{
+  "timestamp": "2025-12-23T18:12:15.766634",
+  "phase": "Phase 1 - Task 4",
+  "summary": {
+    "total_pdfs": 6,
+    "total_pages": 154,
+    "total_words": 96879,
+    "total_sentences": 3156,
+    "total_characters": 596437,
+    "avg_words_per_pdf": 16146.5,
+    "avg_words_per_page": 629.0844155844156
+  },
+  "quality_distribution": {
+    "green": 4,
+    "yellow": 2,
+    "red": 0
+  },
+  "by_subject": {
+    "history": {
+      "pdf_count": 2,
+      "total_pages": 64,
+      "total_words": 44727,
+      "total_sentences": 1358
+    },
+    "literature": {
+      "pdf_count": 1,
+      "total_pages": 20,
+      "total_words": 10250,
+      "total_sentences": 346
+    },
+    "science": {
+      "pdf_count": 3,
+      "total_pages": 70,
+      "total_words": 41902,
+      "total_sentences": 1452
+    }
+  },
+  "readability": {
+    "avg_flesch_ease": 41.55911508354117,
+    "avg_grade_level": 14.288826803215253
+  },
+  "files_created": [
+    "The Project Gutenberg eBook of The Communist Manifesto by Karl Marx and Friedrich Engels_clean.json",
+    "The Project Gutenberg eBook of Rise of Rail Power In War & Conquest 1833-1914, by Edwin A. Pratt__clean.json",
+    "The Project Gutenberg eBook of The Wars of Religion in France (1559-1576), by James Westfall Thompson__clean.json",
+    "The Variation of Animals and Plants Under Domestication. Vol I__clean.json",
+    "The Project Gutenberg eBook of On the Origin of Species, Sixth Edition by Charles Darwin_clean.json",
+    "The Project Gutenberg eBook of Food and Flavor, by Henry T. Finck__clean.json"
+  ],
+  "status": "COMPLETE"
+}

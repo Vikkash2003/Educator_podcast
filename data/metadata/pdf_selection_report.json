@@ -1,0 +1,64 @@
+{
+  "timestamp": "2025-12-23T19:01:36.483726",
+  "selection_criteria": {
+    "rouge_weight": 50,
+    "length_weight": 20,
+    "quality_weight": 20,
+    "pages_weight": 10
+  },
+  "all_documents": [
+    {
+      "filename": "The Project Gutenberg eBook of On the Origin of Species, Sixth Edition by Charles Darwin.pdf",
+      "score": 58.526250676563826,
+      "rank": 1
+    },
+    {
+      "filename": "The Project Gutenberg eBook of The Wars of Religion in France (1559-1576), by James Westfall Thompson_.pdf",
+      "score": 57.889800703399764,
+      "rank": 2
+    },
+    {
+      "filename": "The Variation of Animals and Plants Under Domestication. Vol I_.pdf",
+      "score": 57.84242047133857,
+      "rank": 3
+    },
+    {
+      "filename": "The Project Gutenberg eBook of The Communist Manifesto by Karl Marx and Friedrich Engels.pdf",
+      "score": 49.50600701440191,
+      "rank": 4
+    },
+    {
+      "filename": "The Project Gutenberg eBook of Rise of Rail Power In War & Conquest 1833-1914, by Edwin A. Pratt_.pdf",
+      "score": 36.544177588261114,
+      "rank": 5
+    },
+    {
+      "filename": "The Project Gutenberg eBook of Food and Flavor, by Henry T. Finck_.pdf",
+      "score": 29.61866902237927,
+      "rank": 6
+    }
+  ],
+  "selected_documents": [
+    {
+      "filename": "The Project Gutenberg eBook of On the Origin of Species, Sixth Edition by Charles Darwin.pdf",
+      "subject": "science",
+      "score": 58.526250676563826,
+      "rouge1": 0.37052501353127654,
+      "summary_words": 2591
+    },
+    {
+      "filename": "The Project Gutenberg eBook of The Wars of Religion in France (1559-1576), by James Westfall Thompson_.pdf",
+      "subject": "literature",
+      "score": 57.889800703399764,
+      "rouge1": 0.35779601406799527,
+      "summary_words": 2419
+    },
+    {
+      "filename": "The Project Gutenberg eBook of The Communist Manifesto by Karl Marx and Friedrich Engels.pdf",
+      "subject": "history",
+      "score": 49.50600701440191,
+      "rouge1": 0.3901201402880382,
+      "summary_words": 3272
+    }
+  ]
+}

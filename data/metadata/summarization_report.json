@@ -1,0 +1,94 @@
+{
+  "timestamp": "2025-12-23T19:01:06.211776",
+  "phase": "Phase 2A - Summarization",
+  "summary": {
+    "total_documents": 6,
+    "total_original_words": 96879,
+    "total_summary_words": 19534,
+    "average_compression_ratio": 13.708406640410237,
+    "average_rouge1": 0.39975775158781485,
+    "average_rouge2": 0.2313340864437701
+  },
+  "by_subject": {
+    "science": {
+      "document_count": 3,
+      "total_original_words": 41902,
+      "total_summary_words": 8230,
+      "avg_rouge1": 0.3732489344685444
+    },
+    "history": {
+      "document_count": 2,
+      "total_original_words": 44727,
+      "total_summary_words": 8885,
+      "avg_rouge1": 0.46050184602663025
+    },
+    "literature": {
+      "document_count": 1,
+      "total_original_words": 10250,
+      "total_summary_words": 2419,
+      "avg_rouge1": 0.35779601406799527
+    }
+  },
+  "documents": [
+    {
+      "filename": "The Project Gutenberg eBook of Food and Flavor, by Henry T. Finck_.pdf",
+      "subject": "science",
+      "original_words": 17116,
+      "summary_words": 3222,
+      "compression_ratio": 12.473708810469736,
+      "rouge1_f": 0.3923733804475854,
+      "rouge2_f": 0.19511117655720805,
+      "quality_flag": "yellow"
+    },
+    {
+      "filename": "The Project Gutenberg eBook of On the Origin of Species, Sixth Edition by Charles Darwin.pdf",
+      "subject": "science",
+      "original_words": 13267,
+      "summary_words": 2591,
+      "compression_ratio": 12.037385995326751,
+      "rouge1_f": 0.37052501353127654,
+      "rouge2_f": 0.25334467558580154,
+      "quality_flag": "green"
+    },
+    {
+      "filename": "The Project Gutenberg eBook of Rise of Rail Power In War & Conquest 1833-1914, by Edwin A. Pratt_.pdf",
+      "subject": "history",
+      "original_words": 29748,
+      "summary_words": 5613,
+      "compression_ratio": 14.034556945004706,
+      "rouge1_f": 0.5308835517652223,
+      "rouge2_f": 0.26202571338977737,
+      "quality_flag": "yellow"
+    },
+    {
+      "filename": "The Project Gutenberg eBook of The Wars of Religion in France (1559-1576), by James Westfall Thompson_.pdf",
+      "subject": "literature",
+      "original_words": 10250,
+      "summary_words": 2419,
+      "compression_ratio": 14.17560975609756,
+      "rouge1_f": 0.35779601406799527,
+      "rouge2_f": 0.24810443211131086,
+      "quality_flag": "green"
+    },
+    {
+      "filename": "The Project Gutenberg eBook of The Communist Manifesto by Karl Marx and Friedrich Engels.pdf",
+      "subject": "history",
+      "original_words": 14979,
+      "summary_words": 3272,
+      "compression_ratio": 16.142599639495295,
+      "rouge1_f": 0.3901201402880382,
+      "rouge2_f": 0.18717814762295693,
+      "quality_flag": "green"
+    },
+    {
+      "filename": "The Variation of Animals and Plants Under Domestication. Vol I_.pdf",
+      "subject": "science",
+      "original_words": 11519,
+      "summary_words": 2417,
+      "compression_ratio": 13.386578696067367,
+      "rouge1_f": 0.3568484094267714,
+      "rouge2_f": 0.24224037339556595,
+      "quality_flag": "green"
+    }
+  ]
+}

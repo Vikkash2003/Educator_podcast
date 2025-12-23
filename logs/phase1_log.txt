@@ -1,0 +1,13 @@
+[2025-12-23 18:10:41] [INFO] Testing logging function
+[2025-12-23 18:10:41] [WARNING] This is a warning
+[2025-12-23 18:10:41] [ERROR] This is an error
+[2025-12-23 18:10:41] [SUCCESS] This is a success message
+[2025-12-23 18:10:41] [SUCCESS] Data saved to: /content/ai_podcast_generator/logs/test.json
+[2025-12-23 18:10:41] [SUCCESS] Data loaded from: /content/ai_podcast_generator/logs/test.json
+[2025-12-23 18:10:41] [INFO] Test Progress: 1/5 (20.0%) - Step 1 - ETA: 0.4s
+[2025-12-23 18:10:41] [INFO] Test Progress: 2/5 (40.0%) - Step 2 - ETA: 0.3s
+[2025-12-23 18:10:41] [INFO] Test Progress: 3/5 (60.0%) - Step 3 - ETA: 0.2s
+[2025-12-23 18:10:41] [INFO] Test Progress: 4/5 (80.0%) - Step 4 - ETA: 0.1s
+[2025-12-23 18:10:41] [SUCCESS] Test Progress: Complete! (0.5s total)
+[2025-12-23 18:10:41] [SUCCESS] Data saved to: /content/ai_podcast_generator/data/metadata/setup_report.json
+[2025-12-23 18:10:41] [SUCCESS] Data saved to: /content/ai_podcast_generator/config.json
