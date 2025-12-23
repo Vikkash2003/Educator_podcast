@@ -1,0 +1,149 @@
+{
+  "timestamp": "2025-12-23T14:14:50.201572",
+  "audit_type": "comprehensive_quality_audit",
+  "critical_issues": [],
+  "warnings": [
+    {
+      "severity": "WARNING",
+      "category": "Text Pattern",
+      "message": "The Project Gutenberg eBook of Rise of Rail Power In War & Conquest 1833-1914, by Edwin A. Pratt__clean.json: Found 63 instances of 'Long number sequences (might be page numbers)'",
+      "details": "",
+      "timestamp": "2025-12-23T14:14:50.386611"
+    }
+  ],
+  "recommendations": [],
+  "passed_checks": [
+    {
+      "check": "Directory exists: raw_pdfs",
+      "details": ""
+    },
+    {
+      "check": "Directory exists: extracted_text",
+      "details": ""
+    },
+    {
+      "check": "Directory exists: metadata",
+      "details": ""
+    },
+    {
+      "check": "PDF Files Found: 6",
+      "details": ""
+    },
+    {
+      "check": "JSON Files Found: 6",
+      "details": ""
+    },
+    {
+      "check": "PDF-JSON match: 6 PDFs = 6 JSON files",
+      "details": ""
+    },
+    {
+      "check": "Structure validation complete for 6 files",
+      "details": ""
+    },
+    {
+      "check": "Data type validation complete",
+      "details": ""
+    },
+    {
+      "check": "Text sufficiency check complete",
+      "details": ""
+    },
+    {
+      "check": "Text quality check complete",
+      "details": ""
+    },
+    {
+      "check": "Word count consistency check complete",
+      "details": ""
+    },
+    {
+      "check": "Outlier detection complete (mean words/page: 633)",
+      "details": ""
+    },
+    {
+      "check": "Quality distribution acceptable: 4/6 green",
+      "details": ""
+    },
+    {
+      "check": "Extraction success rate excellent: 100.0%",
+      "details": ""
+    },
+    {
+      "check": "collection_report.json exists (PDF collection metadata)",
+      "details": ""
+    },
+    {
+      "check": "extraction_report.json exists (Extraction process report)",
+      "details": ""
+    },
+    {
+      "check": "extraction_summary.csv exists (Extraction summary spreadsheet)",
+      "details": ""
+    },
+    {
+      "check": "Extraction report matches actual data",
+      "details": ""
+    },
+    {
+      "check": "CSV file contains 6 entries (matches JSON files)",
+      "details": ""
+    },
+    {
+      "check": "extraction_analysis.png exists (583 KB)",
+      "details": ""
+    },
+    {
+      "check": "pdf_collection_overview.png exists (299 KB)",
+      "details": ""
+    },
+    {
+      "check": "wordclouds_by_subject.png exists (2661 KB) [optional]",
+      "details": ""
+    },
+    {
+      "check": "Sentence length reasonable (36.4 words)",
+      "details": ""
+    },
+    {
+      "check": "Sufficient PDFs: 6",
+      "details": ""
+    },
+    {
+      "check": "Good text volume: 96,879 words",
+      "details": ""
+    },
+    {
+      "check": "NLTK sentence tokenization working",
+      "details": ""
+    },
+    {
+      "check": "NLTK word tokenization working",
+      "details": ""
+    },
+    {
+      "check": "Data can be loaded and processed successfully",
+      "details": ""
+    }
+  ],
+  "statistics": {
+    "total_pdfs": 6,
+    "total_json_files": 6,
+    "avg_words_per_page": 633.4394841269841,
+    "avg_success_rate": 1.0,
+    "total_words": 96879,
+    "total_pages": 154,
+    "green_count": 4,
+    "yellow_count": 2,
+    "red_count": 0,
+    "visualizations_created": 3
+  },
+  "summary": {
+    "overall_status": "GOOD",
+    "phase2_ready": true,
+    "critical_issues_count": 0,
+    "warnings_count": 1,
+    "info_count": 0,
+    "passed_checks_count": 28
+  }
+}

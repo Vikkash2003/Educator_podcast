@@ -1,0 +1,48 @@
+{
+  "project": {
+    "name": "AI-Powered Educational Podcast Generator",
+    "version": "1.0.0",
+    "author": "Your Name",
+    "student_id": "Your ID",
+    "module": "6COSC020W Applied AI"
+  },
+  "paths": {
+    "base_dir": "/content",
+    "data_dir": "/content/ai_podcast_generator/data",
+    "raw_pdfs_dir": "/content/ai_podcast_generator/data/raw_pdfs",
+    "history_dir": "/content/ai_podcast_generator/data/raw_pdfs/history",
+    "science_dir": "/content/ai_podcast_generator/data/raw_pdfs/science",
+    "literature_dir": "/content/ai_podcast_generator/data/raw_pdfs/literature",
+    "extracted_text_dir": "/content/ai_podcast_generator/data/extracted_text",
+    "metadata_dir": "/content/ai_podcast_generator/data/metadata",
+    "outputs_dir": "/content/ai_podcast_generator/outputs",
+    "logs_dir": "/content/ai_podcast_generator/logs"
+  },
+  "extraction": {
+    "success_threshold": 0.9,
+    "density_min": 0.15,
+    "density_max": 0.25,
+    "completeness_threshold": 0.95
+  },
+  "subjects": {
+    "history": {
+      "dir": "/content/ai_podcast_generator/data/raw_pdfs/history",
+      "target_pdfs": 3,
+      "target_pages": 150
+    },
+    "science": {
+      "dir": "/content/ai_podcast_generator/data/raw_pdfs/science",
+      "target_pdfs": 3,
+      "target_pages": 150
+    },
+    "literature": {
+      "dir": "/content/ai_podcast_generator/data/raw_pdfs/literature",
+      "target_pdfs": 2,
+      "target_pages": 100
+    }
+  },
+  "phase1": {
+    "status": "complete",
+    "completion_date": "2025-12-23T14:12:56.953559"
+  }
+}
